@@ -50,6 +50,7 @@
    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irempekkiyak&layout=compact&theme=buefy&hide_border=true" /></a> 
   
   </td>
+  
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
