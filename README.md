@@ -1,9 +1,13 @@
 
 <h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif"width="60px"/>, I'm İrem Pekkıyak</h1>
+
 <br>
 
 
-## About Me 💻:
+### About Me 💻:
+
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611ac8c4439c463e1d4d089fa00b5006d91e1e76b74&rid=giphy.gif&ct=g" width="500" />
+<br>
 
 - 🎓 Studying Computer Engineering at  [Ankara University](https://www.ankara.edu.tr/)
 - 🏡 Lives in **Ankara/Turkey**
@@ -13,7 +17,7 @@
 <br>
 
   
-## Connect with me ☕ :
+### Connect with me ☕ :
 
 <br>
 
@@ -24,7 +28,12 @@
 <br>
 
 
-## 🛠️ My Skills
+### My Skills 🛠️ :
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <br>
   
 ### 👉 Programming languages
 
@@ -47,7 +56,7 @@
   </a>
 <td width="50%" align="right">
 
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irempekkiyak&layout=compact&theme=buefy&hide_border=true" /></a> 
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irempekkiyak&layout=compact&theme=github_dark" /></a> 
   
   </td>
   
