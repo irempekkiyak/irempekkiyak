@@ -2,17 +2,17 @@
 <h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif"width="60px"/>, I'm İrem Pekkıyak</h1>
 <br>
 
-![GitHub followers](https://img.shields.io/github/followers/irempekkiyak?style=social)
 
-## About Me :
+## About Me 💻:
 
-- 🎓 I'am studying at  [Ankara University](https://www.ankara.edu.tr/)
+- 🎓 Studying Computer Engineering at  [Ankara University](https://www.ankara.edu.tr/)
 - 🏡 Lives in **Ankara/Turkey**
 - 🌱 I’m currently learning Flutter and Swift
 - 🚩 Interested in Full Stack Mobile Application development
 
 <br>
 
+  
 ## Connect with me ☕ :
 
 <br>
@@ -23,14 +23,15 @@
 
 <br>
 
-## 🛠️ My Skills
 
+## 🛠️ My Skills
+  
 ### 👉 Programming languages
 
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   </a> 
   &emsp; 
   <a href="https://dart.dev/">
@@ -38,18 +39,26 @@
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
+  &emsp;
+   <a href="https://www.swift.com/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+  </a>
+<td width="50%" align="right">
 
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irempekkiyak&layout=compact&theme=buefy&hide_border=true" /></a> 
+  
+  </td>
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a> 
 </p>
 
@@ -69,9 +78,7 @@
  
 <p>
  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
   &emsp;
