@@ -54,9 +54,10 @@
   </a>
 <td width="50%" align="right">
 
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irempekkiyak&layout=compact&theme=github_dark" /></a> 
-  
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /></a> 
+
   </td>
+  
   
 ### 👉 Frontend Development
 <p align="left"> 
